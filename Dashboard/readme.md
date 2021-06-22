@@ -2,9 +2,7 @@ The Dashboards
 
 A Dashboard is the most efficient way to track multiple data sources because it provides a central location for businesses to monitor and analyze performance. Real-time monitoring reduces the hours of analyzing and along lines of communication that previously challenged businesses.
 
-How the Dashboard Looks Like
 
-download
 
 Tableau Dashboard
 
